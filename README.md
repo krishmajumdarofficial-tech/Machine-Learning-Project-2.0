@@ -1,1 +1,1 @@
-# Machine-Learning-Project-2.0
+This models helps in hiring process and predicts salaries with inputs given as experience, test and interview scores. It also uses a python library called word to number to convert experience columns where entries were in words and we converted them to numbers.
